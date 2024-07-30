@@ -1,0 +1,6 @@
+[submodule "Design-Pattern"]
+	path = Design-Pattern
+	url = https://github.com/Hamsini-1223/Design-Pattern/
+[submodule "Astronaut-Scheduler"]
+	path = Astronaut-Scheduler
+	url = https://github.com/Hamsini-1223/Astronaut-Scheduler
